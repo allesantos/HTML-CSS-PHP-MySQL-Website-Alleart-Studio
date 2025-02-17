@@ -4,7 +4,7 @@ Este projeto consiste em um pequeno projeto de um website desenvolvido com **HTM
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Alleart-Studio.png">
 
-<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/alleart-studio/contato.png">
+<p align="center"><img src = "https://github.com/allesantos/allesantos/blob/main/imagens/alleart-studio/contato.png"></p>
 
 ---
 
