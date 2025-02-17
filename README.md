@@ -2,6 +2,8 @@
 
 Este projeto consiste em um pequeno projeto de um website desenvolvido com **HTML** e **CSS**, que possui uma sessão de **Contato**. Nesta sessão, o usuário pode informar seu nome, e-mail e assunto. Ao enviar o formulário, os dados são processados via **PHP** e armazenados em um banco de dados **MySQL**.
 
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Alleart-Studio.png">
+
 ---
 
 ## 📌 Índice
